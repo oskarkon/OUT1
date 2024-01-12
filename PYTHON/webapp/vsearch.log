@@ -1,0 +1,6 @@
+ImmutableMultiDict([('phrase', 'aaaa'), ('letters', 'a')])
+127.0.0.1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Unique/93.7.5316.17
+{'a'}
+ImmutableMultiDict([('phrase', 'aaaabbbcccdd'), ('letters', 'acb')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Unique/93.7.5316.17|{'c', 'b', 'a'}
+ImmutableMultiDict([('phrase', 'dwewfwfwaq'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 LikeWise/97.6.2365.66|{'a', 'e'}

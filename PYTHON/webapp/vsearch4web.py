@@ -1,4 +1,5 @@
-from flask import Flask, render_template, request, escape
+#próba do git
+from flask import Flask, render_template, request
 from PYTHON.modul.vsearch import search4letters
 from PYTHON.webapp.DBcm import UseDatabase
 

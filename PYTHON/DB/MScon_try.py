@@ -1,7 +1,7 @@
-from PYTHON.DB.DBcon import SQLConnector
+from PYTHON.DB.DBcon import MsConnector
 
 # Stworzenie instancji klasy
-sql_connector = SQLConnector( database="SQL")
+sql_connector = MsConnector( database="SQL")
 
 # Połączenie z bazą danych
 sql_connector.connect()
